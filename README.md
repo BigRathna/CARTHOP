@@ -1,4 +1,4 @@
-# 🛒 CartHop
+<h1 align="center">🛒 CartHop</h1>
 
 CartHop is a wish-list application designed to enhance the convenience for frequent users of multiple online shopping websites. This application aims to streamline the shopping experience by combining shopping carts from various platforms.
 
